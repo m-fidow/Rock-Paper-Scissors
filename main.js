@@ -5,28 +5,28 @@
 // if (playerMove === "rock" && computerMove === "rock") {
 //   console.log("draw");
 // }
-// if (playerMove === "rock" && computerMove === "paper") {
+// else if (playerMove === "rock" && computerMove === "paper") {
 //   console.log("paper wins");
 // }
-// if (playerMove === "rock" && computerMove === "scissors") {
+// else if (playerMove === "rock" && computerMove === "scissors") {
 //   console.log("rock wins");
 // }
-// if (playerMove === "paper" && computerMove === "paper") {
+// else if (playerMove === "paper" && computerMove === "paper") {
 //   console.log("draw");
 // }
-// if (playerMove === "paper" && computerMove === "rock") {
+// else if (playerMove === "paper" && computerMove === "rock") {
 //   console.log("paper wins");
 // }
-// if (playerMove === "paper" && computerMove === "scissors") {
+// else if (playerMove === "paper" && computerMove === "scissors") {
 //   console.log("scissors win");
 // }
-// if (playerMove === "scissors" && computerMove === "scissors") {
+// else if (playerMove === "scissors" && computerMove === "scissors") {
 //   console.log("draw");
 // }
-// if (playerMove === "scissors" && computerMove === "paper") {
+// else if (playerMove === "scissors" && computerMove === "paper") {
 //   console.log("scissors win");
 // }
-// if (playerMove === "scissors" && computerMove === "rock") {
+// else if (playerMove === "scissors" && computerMove === "rock") {
 //   console.log("rock wins");
 // }
 
@@ -35,28 +35,28 @@
 //   if (player1 === "rock" && player2 === "rock") {
 //     return "0";
 //   }
-//   if (player1 === "rock" && player2 === "paper") {
+//   else if (player1 === "rock" && player2 === "paper") {
 //     return "-1";
 //   }
-//   if (player1 === "rock" && player2 === "scissors") {
+//   else if (player1 === "rock" && player2 === "scissors") {
 //     return "1";
 //   }
-//   if (player1 === "paper" && player2 === "paper") {
+//   else if (player1 === "paper" && player2 === "paper") {
 //     return "0";
 //   }
-//   if (player1 === "paper" && player2 === "rock") {
+//   else if (player1 === "paper" && player2 === "rock") {
 //     return "1";
 //   }
-//   if (player1 === "paper" && player2 === "scissors") {
+//   else if (player1 === "paper" && player2 === "scissors") {
 //     return "-1";
 //   }
-//   if (player1 === "scissors" && player2 === "scissors") {
+//   else if (player1 === "scissors" && player2 === "scissors") {
 //     return "0";
 //   }
-//   if (player1 === "scissors" && player2 === "paper") {
+//   else if (player1 === "scissors" && player2 === "paper") {
 //     return "1";
 //   }
-//   if (player1 === "scissors" && player2 === "rock") {
+//   else if (player1 === "scissors" && player2 === "rock") {
 //     return "-1";
 //   }
 // }
@@ -68,28 +68,28 @@
 //   if (player1 === "rock" && player2 === "rock") {
 //     return "0";
 //   }
-//   if (player1 === "rock" && player2 === "paper") {
+//   else if (player1 === "rock" && player2 === "paper") {
 //     return "-1";
 //   }
-//   if (player1 === "rock" && player2 === "scissors") {
+//   else if (player1 === "rock" && player2 === "scissors") {
 //     return "1";
 //   }
-//   if (player1 === "paper" && player2 === "paper") {
+//   else if (player1 === "paper" && player2 === "paper") {
 //     return "0";
 //   }
-//   if (player1 === "paper" && player2 === "rock") {
+//   else if (player1 === "paper" && player2 === "rock") {
 //     return "1";
 //   }
-//   if (player1 === "paper" && player2 === "scissors") {
+//   else if (player1 === "paper" && player2 === "scissors") {
 //     return "-1";
 //   }
-//   if (player1 === "scissors" && player2 === "scissors") {
+//   else if (player1 === "scissors" && player2 === "scissors") {
 //     return "0";
 //   }
-//   if (player1 === "scissors" && player2 === "paper") {
+//   else if (player1 === "scissors" && player2 === "paper") {
 //     return "1";
 //   }
-//   if (player1 === "scissors" && player2 === "rock") {
+//   else if (player1 === "scissors" && player2 === "rock") {
 //     return "-1";
 //   }
 // }
@@ -109,28 +109,28 @@
 //   if (player1 === "rock" && player2 === "rock") {
 //     return "0";
 //   }
-//   if (player1 === "rock" && player2 === "paper") {
+//   else if (player1 === "rock" && player2 === "paper") {
 //     return "-1";
 //   }
-//   if (player1 === "rock" && player2 === "scissors") {
+//   else if (player1 === "rock" && player2 === "scissors") {
 //     return "1";
 //   }
-//   if (player1 === "paper" && player2 === "paper") {
+//   else if (player1 === "paper" && player2 === "paper") {
 //     return "0";
 //   }
-//   if (player1 === "paper" && player2 === "rock") {
+//   else if (player1 === "paper" && player2 === "rock") {
 //     return "1";
 //   }
-//   if (player1 === "paper" && player2 === "scissors") {
+//   else if (player1 === "paper" && player2 === "scissors") {
 //     return "-1";
 //   }
-//   if (player1 === "scissors" && player2 === "scissors") {
+//   else if (player1 === "scissors" && player2 === "scissors") {
 //     return "0";
 //   }
-//   if (player1 === "scissors" && player2 === "paper") {
+//  else if (player1 === "scissors" && player2 === "paper") {
 //     return "1";
 //   }
-//   if (player1 === "scissors" && player2 === "rock") {
+//   else if (player1 === "scissors" && player2 === "rock") {
 //     return "-1";
 //   }
 // }
@@ -140,8 +140,8 @@
 // alert(result);
 
 //Task 5
-
-while (confirm("Do you want to play again?")) {
+let playagain = true;
+while (playagain === true) {
   let player1 = prompt("Rock, paper or scissors?");
   let moves = ["rock", "paper", "scissors"];
   function computerMove() {
@@ -152,34 +152,31 @@ while (confirm("Do you want to play again?")) {
   function getWinner(player1, player2) {
     if (player1 === "rock" && player2 === "rock") {
       return "0";
-    }
-    if (player1 === "rock" && player2 === "paper") {
+    } else if (player1 === "rock" && player2 === "paper") {
       return "-1";
-    }
-    if (player1 === "rock" && player2 === "scissors") {
+    } else if (player1 === "rock" && player2 === "scissors") {
       return "1";
-    }
-    if (player1 === "paper" && player2 === "paper") {
+    } else if (player1 === "paper" && player2 === "paper") {
       return "0";
-    }
-    if (player1 === "paper" && player2 === "rock") {
+    } else if (player1 === "paper" && player2 === "rock") {
       return "1";
-    }
-    if (player1 === "paper" && player2 === "scissors") {
+    } else if (player1 === "paper" && player2 === "scissors") {
       return "-1";
-    }
-    if (player1 === "scissors" && player2 === "scissors") {
+    } else if (player1 === "scissors" && player2 === "scissors") {
       return "0";
-    }
-    if (player1 === "scissors" && player2 === "paper") {
+    } else if (player1 === "scissors" && player2 === "paper") {
       return "1";
-    }
-    if (player1 === "scissors" && player2 === "rock") {
+    } else if (player1 === "scissors" && player2 === "rock") {
       return "-1";
     }
   }
   let result = getWinner(player1, player2);
   console.log(player1);
   console.log(player2);
+
   alert(result);
+  playagain = confirm("Do you want to play again?");
+  if (playagain === false) {
+    break;
+  }
 }
