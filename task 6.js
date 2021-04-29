@@ -29,11 +29,6 @@ DEFINE NUMBER_OF_DRAWS VARIABLE
 - INCREASE COUNT IF RESULT =  0
 - ALERT BEFORE CONFIRM
 
-
-
-
-
-
 */
 let gamesPlayed = 1;
 let numberOfWins = 0;
