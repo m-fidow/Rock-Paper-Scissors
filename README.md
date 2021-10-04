@@ -1,4 +1,4 @@
-# [Rock, Paper, Scissors!] (https://m-fidow.github.io/Rock-Paper-Scissors/)
+#  (Rock, Paper, Scissors!) [https://m-fidow.github.io/Rock-Paper-Scissors/]
 
 Work through the tasks below **one by one**. Make sure you have completed each task before moving on to the next. Some steps will require you to change code you've already written.
 
